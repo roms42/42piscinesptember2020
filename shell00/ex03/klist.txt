@@ -1,0 +1,5 @@
+Credentials cache: API:E1D068BE-9C9D-44A2-A66E-DFF2147FE75F
+        Principal: rberthau@42.FR
+
+  Issued                Expires               Principal
+Sep  7 10:07:10 2020  Sep 14 10:07:10 2020  krbtgt/42.FR@42.FR
